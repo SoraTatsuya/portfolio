@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Portfolio page for myself",
+  "main": "index.js",
+  "author": "Andreas Schneebeli <Andreas.Schneebeli@outlook.com>",
+  "license": "MIT"
+}
